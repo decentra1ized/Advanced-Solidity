@@ -1,5 +1,6 @@
 require('@nomiclabs/hardhat-waffle');
 require('dotenv').config();
+require('hardhat-abi-exporter');
 
 module.exports = {
   solidity: "0.8.0",

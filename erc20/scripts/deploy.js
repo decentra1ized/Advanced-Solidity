@@ -8,7 +8,7 @@ async function main() {
     console.log("Account balance:", (await ethers.utils.formatEther(weiAmount)));
   
     // make sure to replace the "GoofyGoober" reference with your own ERC-20 name!
-    const Token = await ethers.getContractFactory("Kcr");
+    const Token = await ethers.getContractFactory("NewKcr");
     const token = await Token.deploy();
   
     console.log("Token address:", token.address);
