@@ -43,11 +43,3 @@
 <img src="PPT/KIP17/Klaytn NFT 30.png"  width="500">
 <img src="PPT/KIP17/Klaytn NFT 31.png"  width="500">
 <img src="PPT/KIP17/Klaytn NFT 32.png"  width="500">
-<img src="PPT/KIP17/Klaytn NFT 33.png"  width="500">
-<img src="PPT/KIP17/Klaytn NFT 34.png"  width="500">
-<img src="PPT/KIP17/Klaytn NFT 35.png"  width="500">
-<img src="PPT/KIP17/Klaytn NFT 36.png"  width="500">
-<img src="PPT/KIP17/Klaytn NFT 37.png"  width="500">
-<img src="PPT/KIP17/Klaytn NFT 38.png"  width="500">
-<img src="PPT/KIP17/Klaytn NFT 39.png"  width="500">
-<img src="PPT/KIP17/Klaytn NFT 40.png"  width="500">
