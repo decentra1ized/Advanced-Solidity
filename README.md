@@ -6,7 +6,7 @@
 [2주차](https://reminiscent-cello-2e0.notion.site/2-905a98eb400e47feacb9ccf957b25577): 내가 원하는 ERC20 컨트랙트 작성 및 배포<br>
 [3주차](https://reminiscent-cello-2e0.notion.site/3-db1a4cf7a1db43cea1111e7aecde8a89): Vesting, Wallet 컨트랙트 등 다양한 컨트랙트 다루기<br>
 [4주차]()<br>
-[5주차](https://reminiscent-cello-2e0.notion.site/5-117b1c3ef4f446aeb046afab058e5d2d): ERC721 컨트랙트 작성
+[5주차](https://reminiscent-cello-2e0.notion.site/5-117b1c3ef4f446aeb046afab058e5d2d): ERC721 컨트랙트 작성<br>
 [7주차](https://reminiscent-cello-2e0.notion.site/7-c744ed042cf246e899f08640221c1cdc): [bid 컨트렉트](https://github.com/decentraland/bid-contract) 분석
 
 ## 이화체인 개발 세션 시 진행했던 NFT 제작 프로젝트
